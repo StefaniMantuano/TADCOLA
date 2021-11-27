@@ -1,0 +1,11 @@
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\bin\Debug\ListaColaStefaniaM.exe.config
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\bin\Debug\ListaColaStefaniaM.exe
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\bin\Debug\ListaColaStefaniaM.pdb
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.csproj.SuggestedBindingRedirects.cache
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.Form1.resources
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.Properties.Resources.resources
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.csproj.GenerateResource.cache
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.exe
+C:\Users\CompuStore\source\repos\ListaColaStefaniaM\ListaColaStefaniaM\obj\Debug\ListaColaStefaniaM.pdb
